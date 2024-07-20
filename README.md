@@ -23,7 +23,7 @@ This project is a simple clone of the Spotify web player interface, created usin
 
 To view the project, simply clone the repository and open the index.html file in your web browser.
   ```
-  git clone https://github.com/your-username/spotify-clone.git
+  git clone https://github.com/krishna3032004/Spotify-clone-.git
   cd spotify-clone
   open index.html
   ```
